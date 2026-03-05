@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "type": "blog",
+    "title": "New Blog Post from MVP Alice",
+    "date": "2026-03-05",
+    "description": "Alice shares her insights on building VS Code extensions efficiently.",
+    "link": "https://example.com/blog/alice-vscode-extensions",
+    "isNew": true
+  },
+  {
+    "id": "2",
+    "type": "conference",
+    "title": "Dev Conference 2026 Announced",
+    "date": "2026-04-10",
+    "description": "The upcoming conference features talks from top developers and MVPs worldwide.",
+    "link": "https://example.com/conference/2026",
+    "isNew": true
+  },
+  {
+    "id": "3",
+    "type": "release",
+    "title": "VS Code Extension v1.2.3 Released",
+    "date": "2026-03-20",
+    "description": "This release includes bug fixes, performance improvements, and new features.",
+    "link": "https://example.com/releases/v1.2.3",
+    "isNew": false
+  },
+  {
+    "id": "4",
+    "type": "blog",
+    "title": "MVP Bob Shares Debugging Tips",
+    "date": "2026-02-28",
+    "description": "Bob gives practical advice for debugging VS Code extensions quickly.",
+    "link": "https://example.com/blog/bob-debug-tips",
+    "isNew": false
+  },
+  {
+    "id": "5",
+    "type": "conference",
+    "title": "JavaScript Summit 2026 Schedule",
+    "date": "2026-05-15",
+    "description": "Full schedule of talks, workshops, and networking sessions for JS developers.",
+    "link": "https://example.com/conference/js-summit-2026",
+    "isNew": true
+  }
+]
